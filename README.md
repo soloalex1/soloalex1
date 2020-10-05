@@ -1,6 +1,16 @@
-<img src="title.png" alt="Imagem de apresentação do Alexandre Machado - Desenvolvedor front-end">
+<img src="title.png" alt="Imagem de apresentação do Alexandre Machado - Desenvolvedor front-end" width="1200">
 
-### Hi there 👋
+<img src="https://media4.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=ecf05e47a7egtppt2wmudbnlehnl9id7zakwbn53jg2w246r&rid=giphy.gif" align="left" height="300"/>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=soloalex1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloalex1&theme=synthwave&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://i.pinimg.com/originals/8f/f4/f3/8ff4f30b9e621b8879cf6eb0f6f4d519.gif" align="right" height="300"/>
+
+```diff
+    Hi, I'm Alex, a front-end developer from Brazil.
+
+    - 21 years old
+    - Born & raised in Fortaleza
+    - Front-end developer @ Statix Inovação e Tecnologia
+    - Love all things pixel & retro
+
+# 📖 Web development, ux/ui design, mobile accessibility
+```

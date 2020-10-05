@@ -1,4 +1,4 @@
-# Alexandre Machado 
+<img src="title.png" alt="Imagem de apresentação do Alexandre Machado - Desenvolvedor front-end">
 
 ### Hi there 👋
 

@@ -5,12 +5,15 @@
 <img src="https://i.pinimg.com/originals/8f/f4/f3/8ff4f30b9e621b8879cf6eb0f6f4d519.gif" align="right" width="195"/>
 
 ```diff
-    Hi, I'm Alex, a front-end developer from Brazil.
+    hi, i'm Alex, a front-end developer from Brazil.
 
     - 21 years old
-    - Born & raised in Fortaleza
-    - Front-end developer @ Statix Inovação e Tecnologia
-    - Love all things pixel & retro
+    - born & raised (& working & living) in Fortaleza
+    - front-end developer & web designer @ Statix Inovação e Tecnologia
+    - digital systems an media student @ Federal University of Ceará
+    - love all things pixel & retro
+    - i don't exist outside internet
 
-# 📖 Web development, ux/ui design, mobile accessibility
+# 📖 web development, ux/ui design, functional, tdd
+
 ```

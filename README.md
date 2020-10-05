@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="title.png" alt="Imagem de apresentação do Alexandre Machado - Desenvolvedor front-end" width="1200">
 
-<!--
-**soloalex1/soloalex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media4.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=ecf05e47a7egtppt2wmudbnlehnl9id7zakwbn53jg2w246r&rid=giphy.gif" align="left" width="180"/>
 
-Here are some ideas to get you started:
+<img src="https://i.pinimg.com/originals/8f/f4/f3/8ff4f30b9e621b8879cf6eb0f6f4d519.gif" align="right" width="190"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
+    hi, i'm Alex, a front-end developer from Brazil.
+
+    - 21 years old
+    - born & raised (& working & living) in Fortaleza
+    - front-end developer & web designer @ Statix
+    - digital systems & media student @ Federal University of Ceará
+    - love all things pixel & retro
+    - i don't exist outside internet
+
+# 📖 web development, ux/ui design, functional, tdd
+
+```

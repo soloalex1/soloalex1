@@ -10,7 +10,7 @@
     - 21 years old
     - born & raised (& working & living) in Fortaleza
     - front-end developer & web designer @ Statix
-    - digital systems & media bachelor @ Federal University of Ceará
+    - digital systems & media degree @ Federal University of Ceará
     - love all things pixel & retro
     - i don't exist outside internet
 

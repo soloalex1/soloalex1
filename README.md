@@ -9,11 +9,11 @@
 
     - 22 years old
     - born & raised (& working & living) in Fortaleza
-    - front-end developer & web designer @ Statix
+    - front-end developer @ Agenda Edu
     - digital systems & media degree @ Federal University of Ceará
     - love all things pixel & retro
     - i don't exist outside internet
 
-# 📖 web development, ux/ui, design patterns, functional, pwa
+# 📖 web development, bauhaus, design patterns, functional
 
 ```

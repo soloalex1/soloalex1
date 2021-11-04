@@ -10,7 +10,7 @@
     - 22 years old
     - born & raised (& working & living) in Fortaleza
     - front-end developer @ Agenda Edu
-    - digital systems & media degree @ Federal University of Ceará
+    - digital systems & media degree @ UFC
     - love all things pixel & retro
     - i don't exist outside internet
 

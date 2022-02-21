@@ -7,13 +7,12 @@
 ```diff
     hi, i'm Alex, a front-end developer from Brazil.
 
-    - 22 years old
-    - born & raised (& working & living) in Fortaleza
+    - 23 years old
     - front-end developer @ Agenda Edu
     - digital systems & media degree @ UFC
     - love all things pixel & retro
     - i don't exist outside internet
 
-# 📖 web development, bauhaus, design patterns, functional
+# 📖 react, bauhaus, design patterns, tests
 
 ```

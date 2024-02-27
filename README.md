@@ -7,12 +7,12 @@
 ```diff
     hi, i'm Alex, a front-end developer from Brazil.
 
-    - 24 years old
+    - 25 years old
     - software engineer @ somapay digital bank
     - digital systems & media degree @ UFC
     - love all things pixel & retro
     - i don't exist outside internet
 
-# 📖 react, ts, design patterns, tests
+# 📖 react, a11y, design patterns, tests
 
 ```

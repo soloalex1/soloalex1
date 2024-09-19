@@ -13,6 +13,6 @@
     - love all things pixel & retro
     - i don't exist outside internet
 
-# 📖 react, a11y, design patterns, tests
+# 📖 a11y, nextjs, react native
 
 ```

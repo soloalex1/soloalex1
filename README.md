@@ -8,7 +8,7 @@
     hi, i'm Alex, a front-end developer from Brazil.
 
     - 25 years old
-    - software engineer @ somapay digital bank
+    - mid-level software engineer @ fullstack labs
     - digital systems & media degree @ UFC
     - love all things pixel & retro
     - i don't exist outside internet

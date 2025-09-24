@@ -4,11 +4,11 @@
 
 <img src="https://i.pinimg.com/originals/8f/f4/f3/8ff4f30b9e621b8879cf6eb0f6f4d519.gif" align="right" width="190"/>
 
-```diff
+```code
     hi, i'm Alex, a front-end developer from Brazil.
 
     - 26 years old
-    - mid-level software engineer @ floqast via fullstack labs
+    - mid-level software engineer @ [floqast](https://github.com/FloQast) via [fullstack labs](https://github.com/fullstacklabs)
     - digital systems & media degree @ UFC
     - love all things pixel & retro
     - against all authority except for my mommy

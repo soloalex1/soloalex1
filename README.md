@@ -8,7 +8,7 @@
     hi, i'm Alex, a front-end developer from Brazil.
 
     - 26 years old
-    - mid-level software engineer @ [floqast](https://github.com/FloQast) via [fullstack labs](https://github.com/fullstacklabs)
+    - mid-level software engineer @ floqast via fullstack labs
     - digital systems & media degree @ UFC
     - love all things pixel & retro
     - against all authority except for my mommy

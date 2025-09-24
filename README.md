@@ -7,11 +7,11 @@
 ```diff
     hi, i'm Alex, a front-end developer from Brazil.
 
-    - 25 years old
-    - mid-level software engineer @ fullstack labs
+    - 26 years old
+    - mid-level software engineer @ floqast via fullstack labs
     - digital systems & media degree @ UFC
     - love all things pixel & retro
-    - i don't exist outside internet
+    - against all authority except for my mommy
 
 # 📖 a11y, nextjs, react native
 

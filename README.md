@@ -9,10 +9,11 @@
 
     - 26 years old
     - mid-level software engineer @ floqast via fullstack labs
-    - digital systems & media degree @ UFC
+    - digital systems and media degree @ UFC
+    - software engineering postgraduate student @ PUC minas
     - love all things pixel & retro
     - against all authority except for my mommy
 
-# 📖 a11y, nextjs, react native
+# 📖 accessibility, javascript, design systems
 
 ```

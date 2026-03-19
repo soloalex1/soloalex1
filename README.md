@@ -3,7 +3,7 @@
 ```code
     hi, i'm Alex, a front-end developer from Brazil.
 
-    - 26 years old
+    - 27 years old
     - open to work!
     - software engineering postgraduate student @ PUC minas
     - love all things pixel & retro

@@ -1,13 +1,8 @@
-<img src="wordart.png" alt="Alexandre Machado - Desenvolvedor front-end" width="1200">
+hi, i'm alex, a front-end engineer focused on building accessible, user-centered web experiences.
 
-```code
-    hi, i'm Alex, a front-end developer from Brazil.
+- 📖 i'm a graduate student in software engineering at [PUC Minas](https://www.pucminas.br).
+- 💻 i'm currently learning about mobile development, cloud architecture and design systems.
+- 🎨 i'm open to collaborate on projects involving design systems, product development and digital accessibility.
+- 📧 you can reach me out by [alexmachinadev@proton.me](mailto:alexmachinadev@proton.me).
+- 🔗 or you can take a look at my previous experience and projects on [https://alexmachina.dev](https://alexmachina.dev)
 
-    - 27 years old
-    - open to work!
-    - software engineering postgraduate student @ PUC minas
-    - love all things pixel & retro
-
-# 📖 currently learning about accessibility, design systems and front-end architecture
-
-```
